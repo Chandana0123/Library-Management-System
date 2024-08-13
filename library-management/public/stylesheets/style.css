@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://t3.ftcdn.net/jpg/06/50/58/74/360_F_650587420_iqiG7NXrBaVmU2OtYcMtQhv7zjqdq84E.jpg");
+}
+.book-item {
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 5px;
+    background-color: aliceblue;
+}
+
+form {
+    background-color: aliceblue;
+    padding: 10px;
+}
